@@ -31,6 +31,7 @@ Verilen örnekte toplamda 12 kıyaslama yapılmıştır. Bu da worst case olan 5
 >[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.  
   
 Selection Sort'a göre ilk 4 Adım:  
+  
 0.  [7, 3, 5, 8, 2, 9, 4, 15, 6] (seçili eleman 7, min 2, 7>2, yer değiştir)  
 1.  [2, 3, 5, 8, 7, 9, 4, 15, 6] (seçili eleman 3, min 4, 3<4 yer değiştirme)  
 2.  [2, 3, 5, 8, 7, 9, 4, 15, 6] (seçili eleman 5, min 4, 5>4 yer değiştir)  
